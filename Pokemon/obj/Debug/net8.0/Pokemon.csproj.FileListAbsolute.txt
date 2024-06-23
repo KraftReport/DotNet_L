@@ -134,3 +134,4 @@ C:\Users\KraftWork\source\repos\Pokemon\obj\Debug\net8.0\refint\Pokemon.dll
 C:\Users\KraftWork\source\repos\Pokemon\obj\Debug\net8.0\Pokemon.pdb
 C:\Users\KraftWork\source\repos\Pokemon\obj\Debug\net8.0\Pokemon.genruntimeconfig.cache
 C:\Users\KraftWork\source\repos\Pokemon\obj\Debug\net8.0\ref\Pokemon.dll
+C:\Users\KraftWork\source\repos\Pokemon\obj\Debug\net8.0\Pokemon.sourcelink.json
