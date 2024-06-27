@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\iownerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:interfaces\\iownerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\pokemon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:pokemon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:dto\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623160218_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240623160218_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623154216_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240623154216_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\pokemon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:pokemon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:models\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,16 +147,8 @@
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:migrations\\20240622090234_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:interfaces\\ireviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\iownerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|solutionrelative:interfaces\\iownerrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA9A9727-DDC9-4DE0-955F-2C82A5547C10}|Pokemon.csproj|c:\\users\\kraftwork\\source\\repos\\pokemon\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,41 +190,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PokemonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\PokemonRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PokemonRepository.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\PokemonRepository.cs",
-              "RelativeToolTip": "Repositories\\PokemonRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowFYAAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:20:42.724Z",
+              "WhenOpened": "2024-06-27T10:12:34.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PokemonController.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\PokemonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\PokemonController.cs",
-              "RelativeToolTip": "Controllers\\PokemonController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABLAAAA",
+              "DocumentIndex": 1,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "Repositories\\OwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T10:27:53.41Z",
+              "WhenOpened": "2024-06-27T09:28:07.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:27:53.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "Repositories\\ReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:28:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "Interfaces\\IReviewRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:35:08.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:29:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:06:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOwnerRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IOwnerRepositroy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOwnerRepositroy.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IOwnerRepositroy.cs",
+              "RelativeToolTip": "Interfaces\\IOwnerRepositroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:34:34.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\PokemonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PokemonRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Repositories\\PokemonRepository.cs",
+              "RelativeToolTip": "Repositories\\PokemonRepository.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAiwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:20:42.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pokemon.http",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Pokemon.http",
+              "RelativeDocumentMoniker": "Pokemon.http",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Pokemon.http",
+              "RelativeToolTip": "Pokemon.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-22T08:59:16.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T09:48:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PokemonDto.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\PokemonDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PokemonDto.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\PokemonDto.cs",
+              "RelativeToolTip": "Dto\\PokemonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:53:23.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:01:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestApiController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\TestApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestApiController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\TestApiController.cs",
+              "RelativeToolTip": "Controllers\\TestApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:45:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IPokemonRepository.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IPokemonRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IPokemonRepository.cs",
@@ -216,25 +372,11 @@
               "RelativeToolTip": "Interfaces\\IPokemonRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:33:09.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:33:09.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T08:29:26.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "20240623140449_NewInitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623140449_NewInitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623140449_NewInitialCreate.cs",
@@ -242,12 +384,11 @@
               "RelativeToolTip": "Migrations\\20240623140449_NewInitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:04:49.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:04:49.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Helper\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
@@ -255,12 +396,11 @@
               "RelativeToolTip": "Helper\\MappingProfiles.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAAABUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:57:53.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:57:53.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ReviewerDto.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\ReviewerDto.cs",
               "RelativeDocumentMoniker": "Dto\\ReviewerDto.cs",
@@ -268,12 +408,11 @@
               "RelativeToolTip": "Dto\\ReviewerDto.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:55:23.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:55:23.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "ReviewDto.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\ReviewDto.cs",
               "RelativeDocumentMoniker": "Dto\\ReviewDto.cs",
@@ -281,25 +420,11 @@
               "RelativeToolTip": "Dto\\ReviewDto.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:54:05.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:54:05.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PokemonDto.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\PokemonDto.cs",
-              "RelativeDocumentMoniker": "Dto\\PokemonDto.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\PokemonDto.cs",
-              "RelativeToolTip": "Dto\\PokemonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:53:23.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "OwnerDto.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\OwnerDto.cs",
               "RelativeDocumentMoniker": "Dto\\OwnerDto.cs",
@@ -307,12 +432,11 @@
               "RelativeToolTip": "Dto\\OwnerDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:52:15.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:52:15.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "CountryDto.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\CountryDto.cs",
               "RelativeDocumentMoniker": "Dto\\CountryDto.cs",
@@ -320,12 +444,11 @@
               "RelativeToolTip": "Dto\\CountryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:51:42.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:51:42.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Dto\\CategoryDto.cs",
               "RelativeDocumentMoniker": "Dto\\CategoryDto.cs",
@@ -333,25 +456,11 @@
               "RelativeToolTip": "Dto\\CategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:50:41.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:50:41.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:06:30.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "20240623160218_Third.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623160218_Third.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623160218_Third.cs",
@@ -362,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "20240623161418_First.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623161418_First.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623161418_First.cs",
@@ -370,25 +479,11 @@
               "RelativeToolTip": "Migrations\\20240623161418_First.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:14:18.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:14:18.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T09:48:23.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "20240623154216_Second.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623154216_Second.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623154216_Second.cs",
@@ -399,20 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Pokemon.http",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Pokemon.http",
-              "RelativeDocumentMoniker": "Pokemon.http",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Pokemon.http",
-              "RelativeToolTip": "Pokemon.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-22T08:59:16.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Seed.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Seed.cs",
               "RelativeDocumentMoniker": "Seed.cs",
@@ -420,12 +502,11 @@
               "RelativeToolTip": "Seed.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAowGkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T08:36:40.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T08:36:40.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "20240623144850_One.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623144850_One.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623144850_One.cs",
@@ -433,12 +514,11 @@
               "RelativeToolTip": "Migrations\\20240623144850_One.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:48:51.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:48:51.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "20240623141613_CreateOne.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623141613_CreateOne.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623141613_CreateOne.cs",
@@ -446,12 +526,11 @@
               "RelativeToolTip": "Migrations\\20240623141613_CreateOne.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:16:13.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:16:13.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "20240623140636_Create.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623140636_Create.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623140636_Create.cs",
@@ -459,12 +538,11 @@
               "RelativeToolTip": "Migrations\\20240623140636_Create.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:06:37.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:06:37.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "20240623140317_NewInitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240623140317_NewInitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623140317_NewInitialCreate.cs",
@@ -475,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -483,12 +561,11 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAABQwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T08:59:21.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T08:59:21.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "PokemonCategory.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\PokemonCategory.cs",
               "RelativeDocumentMoniker": "Models\\PokemonCategory.cs",
@@ -496,12 +573,11 @@
               "RelativeToolTip": "Models\\PokemonCategory.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T05:25:21.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T05:25:21.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
@@ -509,12 +585,11 @@
               "RelativeToolTip": "Models\\Review.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:02:17.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:02:17.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Reviewer.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Reviewer.cs",
               "RelativeDocumentMoniker": "Models\\Reviewer.cs",
@@ -522,12 +597,11 @@
               "RelativeToolTip": "Models\\Reviewer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:02:32.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:02:32.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "PokemonOwner.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\PokemonOwner.cs",
               "RelativeDocumentMoniker": "Models\\PokemonOwner.cs",
@@ -535,25 +609,11 @@
               "RelativeToolTip": "Models\\PokemonOwner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:48:56.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:48:56.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Pokemon.cs",
-              "RelativeDocumentMoniker": "Models\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Pokemon.cs",
-              "RelativeToolTip": "Models\\Pokemon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:01:31.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Owner.cs",
               "RelativeDocumentMoniker": "Models\\Owner.cs",
@@ -561,12 +621,11 @@
               "RelativeToolTip": "Models\\Owner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:01:46.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:01:46.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
@@ -574,12 +633,11 @@
               "RelativeToolTip": "Models\\Country.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:01:59.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:01:59.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -587,12 +645,11 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T04:02:08.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:02:08.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
@@ -600,12 +657,11 @@
               "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:25:53.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:25:53.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "20240622090234_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Migrations\\20240622090234_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240622090234_InitialCreate.cs",
@@ -613,25 +669,11 @@
               "RelativeToolTip": "Migrations\\20240622090234_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:02:36.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:02:36.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IReviewRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IReviewRepository.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IReviewRepository.cs",
-              "RelativeToolTip": "Interfaces\\IReviewRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:35:08.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "IReviewerRepository.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IReviewerRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IReviewerRepository.cs",
@@ -639,25 +681,11 @@
               "RelativeToolTip": "Interfaces\\IReviewerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:35:23.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:35:23.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IOwnerRepositroy.cs",
-              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IOwnerRepositroy.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IOwnerRepositroy.cs",
-              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\IOwnerRepositroy.cs",
-              "RelativeToolTip": "Interfaces\\IOwnerRepositroy.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:34:34.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICountryRepository.cs",
@@ -665,12 +693,11 @@
               "RelativeToolTip": "Interfaces\\ICountryRepository.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAswA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:34:06.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:34:06.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
@@ -678,12 +705,11 @@
               "RelativeToolTip": "Interfaces\\ICategoryRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA9wAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T09:33:47.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T09:33:47.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -691,12 +717,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:47:36.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T02:47:36.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Pokemon.csproj",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Pokemon\\Pokemon.csproj",
               "RelativeDocumentMoniker": "Pokemon.csproj",
@@ -704,8 +729,7 @@
               "RelativeToolTip": "Pokemon.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-21T10:03:07.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T10:03:07.231Z"
             }
           ]
         }
