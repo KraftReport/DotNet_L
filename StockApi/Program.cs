@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using StockApi.Data;
+
 namespace StockApi
 {
     public class Program
@@ -14,6 +17,11 @@ namespace StockApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddDbContext<ApplicationDbContext>(opts =>
+            {
+                opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -26,7 +34,6 @@ namespace StockApi
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 
