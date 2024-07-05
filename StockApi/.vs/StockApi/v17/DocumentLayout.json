@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|c:\\users\\kraftwork\\source\\repos\\stockapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|solutionrelative:repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|c:\\users\\kraftwork\\source\\repos\\stockapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|solutionrelative:controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|c:\\users\\kraftwork\\source\\repos\\stockapi\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|solutionrelative:interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B303337-2D9A-48BE-B07F-7FD8A323CD6C}|StockApi.csproj|c:\\users\\kraftwork\\source\\repos\\stockapi\\dtos\\stockupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Repository\\StockRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:04:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Interface\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Interface\\IStockRepository.cs",
+              "RelativeToolTip": "Interface\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:59:18.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StockUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\DTOs\\StockUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\StockUpdateDTO.cs",
@@ -75,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StockRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\DTOs\\StockRequestDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\StockRequestDTO.cs",
@@ -88,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StockMapper.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Mapper\\StockMapper.cs",
               "RelativeDocumentMoniker": "Mapper\\StockMapper.cs",
@@ -101,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StockDTO.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\DTOs\\StockDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\StockDTO.cs",
@@ -114,20 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StockController.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Controllers\\StockController.cs",
               "RelativeDocumentMoniker": "Controllers\\StockController.cs",
               "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Controllers\\StockController.cs",
               "RelativeToolTip": "Controllers\\StockController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAADoAAAASAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T06:53:07.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -140,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -153,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -166,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -179,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -192,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\StockApi\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "Models\\Stock.cs",

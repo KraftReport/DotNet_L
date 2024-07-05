@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KraftWork\\source\\repos\\Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\views\\menu\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:views\\menu\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\migrations\\20240625163709_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:migrations\\20240625163709_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\models\\diskingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:models\\diskingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\models\\ingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:models\\ingridients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|c:\\users\\kraftwork\\source\\repos\\runner\\runner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBB88886-6AD3-4FEB-AD9C-5BF531A9326B}|Runner.csproj|solutionrelative:runner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T02:41:46.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T00:14:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:13:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240625163709_one.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Migrations\\20240625163709_one.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240625163709_one.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Migrations\\20240625163709_one.cs",
+              "RelativeToolTip": "Migrations\\20240625163709_one.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:37:10.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAD8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T09:33:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:33:28.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:13:14.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T00:15:03.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ingridients.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\Ingridients.cs",
+              "RelativeDocumentMoniker": "Models\\Ingridients.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\Ingridients.cs",
+              "RelativeToolTip": "Models\\Ingridients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:33:23.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Data\\MenuContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:32:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Menu\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Menu\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Views\\Menu\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Menu\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T00:15:04.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:33:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiskIngridients.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\DiskIngridients.cs",
+              "RelativeDocumentMoniker": "Models\\DiskIngridients.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\DiskIngridients.cs",
+              "RelativeToolTip": "Models\\DiskIngridients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:33:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:33:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Runner.csproj",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Runner.csproj",
+              "RelativeDocumentMoniker": "Runner.csproj",
+              "ToolTip": "C:\\Users\\KraftWork\\source\\repos\\Runner\\Runner.csproj",
+              "RelativeToolTip": "Runner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T09:33:49.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
