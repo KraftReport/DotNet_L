@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\expensetracker\\migrations\\20240724041538_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20F5AA0F-324D-486A-984E-B62D0F832850}|ExpenseTracker.csproj|solutionrelative:migrations\\20240724041538_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +66,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-24T23:44:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T23:35:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T23:07:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T18:10:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:37:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240724041538_Initial Create.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Migrations\\20240724041538_Initial Create.cs",
               "RelativeDocumentMoniker": "Migrations\\20240724041538_Initial Create.cs",
@@ -59,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -72,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
@@ -85,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -98,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Transcation.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Models\\Transcation.cs",
               "RelativeDocumentMoniker": "Models\\Transcation.cs",
@@ -111,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -124,13 +209,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\ExpenseTracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T03:36:47.409Z",
               "EditorCaption": ""

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\StockApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206995DC-AB13-4BF6-8A03-87601D0B17DC}|StockApi.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\stockapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206995DC-AB13-4BF6-8A03-87601D0B17DC}|StockApi.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206995DC-AB13-4BF6-8A03-87601D0B17DC}|StockApi.csproj|c:\\users\\kraftwork\\documents\\github\\dotnet_l\\stockapi\\stockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{206995DC-AB13-4BF6-8A03-87601D0B17DC}|StockApi.csproj|solutionrelative:stockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\StockApi\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\StockApi\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:02:12.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockApi",
+              "DocumentMoniker": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\StockApi\\StockApi.csproj",
+              "RelativeDocumentMoniker": "StockApi.csproj",
+              "ToolTip": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\StockApi\\StockApi.csproj",
+              "RelativeToolTip": "StockApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T03:02:11.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
