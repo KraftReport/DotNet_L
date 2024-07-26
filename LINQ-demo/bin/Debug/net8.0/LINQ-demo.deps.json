@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ-demo/1.0.0": {
+        "dependencies": {
+          "DataLib": "1.0.0",
+          "Extension": "1.0.0"
+        },
+        "runtime": {
+          "LINQ-demo.dll": {}
+        }
+      },
+      "DataLib/1.0.0": {
+        "runtime": {
+          "DataLib.dll": {}
+        }
+      },
+      "Extension/1.0.0": {
+        "runtime": {
+          "Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ-demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

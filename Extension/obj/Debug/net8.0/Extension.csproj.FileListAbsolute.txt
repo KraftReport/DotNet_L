@@ -1,0 +1,12 @@
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\bin\Debug\net8.0\Extension.deps.json
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\bin\Debug\net8.0\Extension.dll
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\bin\Debug\net8.0\Extension.pdb
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.AssemblyInfoInputs.cache
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.AssemblyInfo.cs
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.csproj.CoreCompileInputs.cache
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.sourcelink.json
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.dll
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\refint\Extension.dll
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\Extension.pdb
+C:\Users\KraftWork\Documents\GitHub\DotNet_L\Extension\obj\Debug\net8.0\ref\Extension.dll

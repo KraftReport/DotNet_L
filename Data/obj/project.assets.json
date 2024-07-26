@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\Data.csproj",
-      "projectName": "Data",
-      "projectPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\DataLib.csproj",
+      "projectName": "DataLib",
+      "projectPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\DataLib.csproj",
       "packagesPath": "C:\\Users\\KraftWork\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\obj\\",
       "projectStyle": "PackageReference",

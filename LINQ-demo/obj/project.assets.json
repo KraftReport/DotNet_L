@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DataLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLib.dll": {}
+        }
+      },
+      "Extension/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Extension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extension.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataLib/1.0.0": {
+      "type": "project",
+      "path": "../Data/DataLib.csproj",
+      "msbuildProject": "../Data/DataLib.csproj"
+    },
+    "Extension/1.0.0": {
+      "type": "project",
+      "path": "../Extension/Extension.csproj",
+      "msbuildProject": "../Extension/Extension.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DataLib >= 1.0.0",
+      "Extension >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\KraftWork\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\DataLib.csproj": {
+              "projectPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Data\\DataLib.csproj"
+            },
+            "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Extension\\Extension.csproj": {
+              "projectPath": "C:\\Users\\KraftWork\\Documents\\GitHub\\DotNet_L\\Extension\\Extension.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
