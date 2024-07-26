@@ -1,0 +1,6 @@
+@TableComponentFunctionAPI_HostAddress = http://localhost:5019
+
+GET {{TableComponentFunctionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
